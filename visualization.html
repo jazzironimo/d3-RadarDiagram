@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>d3 Test</title>
+        <link rel="stylesheet" href="visualizationVer1.0.css">
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="visualizationVer1.1.js"></script>
+    </head>
+    <body>
+     
+    <div id="main">
+
+        <!-- <h1>Tests</h1> -->
+        <div id="left"></div>
+
+        <div id = "graph">
+            <script>
+            
+                var data = [{axis:"SweVoc (Total)", value: 0.40}, // not standardized
+                   {axis:"Ovix", value: 0.5/0.483},
+                   {axis:"Lix", value: 20/40},
+                   {axis:"Genomsnittlig meningslängd", value: 20/14},
+                   {axis:"Genomsnittlig ordlängd", value: 18/5},
+                   {axis:"Andel bisatser", value: 0.4/0.359},
+                   {axis:"Meningsdjup", value: 10/7}
+                  ];
+                drawChart("#graph", data, "100%");
+
+            </script>
+        </div>
+    </div>
+    </body>
+</html>
