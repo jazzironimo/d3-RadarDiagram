@@ -1,6 +1,8 @@
 # d3-RadarDiagram
 Visualisation of numerical data regarding text simplification.
 
+[Preview](https://rawgit.com/jazzironimo/d3-RadarDiagram/README-edits/visualization.html)
+
 ## What is this project?
 A thing I did for the larger project TeCST (which, in turn, is part of Diginclude) during the summer of 2017. TeCST is a tool which analyses a text and determines how easy it is to read, as well as giving suggestions on how to improve it. This diagram transforms numerical data into something more comprehensible. The green-colored part in the middle of the circle is the golden standard - thus, it should be as close to this part as possible.
 
