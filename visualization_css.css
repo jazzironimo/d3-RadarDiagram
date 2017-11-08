@@ -1,0 +1,26 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.TestClass {
+	color: Black;
+	background-color: White;
+	text-align: left;
+}
+
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30%; /* aspect ratio */
+    vertical-align: top;
+    overflow: hidden;
+}
+.svg-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
