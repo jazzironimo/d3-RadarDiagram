@@ -12,7 +12,7 @@ Final product in use can be found [here](http://www.ida.liu.se/projects/scream/w
 The code is functional and I don't intend to work on this anymore (for now).
 
 ## TeCST Target Audience
-TeCST is for anyone that would like to simplify their texts. At the moment, as it is still in development, it is targeted more towards web editors and authors of organizational/governmental texts which may be difficlt for immigrants to understand.
+TeCST is for anyone that would like to simplify their texts. At the moment, as it is still in development, it is targeted more towards web editors and authors of organizational/governmental texts which may be difficult for immigrants and dyslectics to understand.
 
 Worth noting is that, currently, it is exclusively in Swedish :)
 
